@@ -496,12 +496,12 @@
 				Q2YAHIaShJ+eADiGkoSfngBUhpKEn54AcIaShJ+eAIGM
 				AIaShJ+eAIGoAIaShJ+eAIHEAIaShJ+eAIHgAIaShJ+e
 				AIH8AIaShJ+eAIEYAYaShJ+eAIE0AYaShJ+eAIFQAYaG
-				AIaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9yAJSEAWMC
-				hARmZmZmg4GAgD2D5uRkPoOPjo4+AYaShJaWBk5TRm9u
-				dIaShISEBk5TRm9udB6UmRiEBVsyNGNdBgAAAA4AAAD/
-				/kMAbwByAGIAZQBsAAAAhAFmEqAAoAGgAKAAhpKElpYG
-				TlNLZXJuhpKEhIQITlNOdW1iZXIAhIQHTlNWYWx1ZQCU
-				hAEqhIQBZKgAhoaG
+				AIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISEB05T
+				VmFsdWUAlIQBKoSEAWSiAIaShJaWBk5TRm9udIaShISE
+				Bk5TRm9udB6UmRiEBVsyNGNdBgAAAA4AAAD//kMAbwBy
+				AGIAZQBsAAAAhAFmEoQBYwCmAaYApgCGkoSWlgdOU0Nv
+				bG9yhpKEhIQHTlNDb2xvcgCUpgKEBGZmZmaDgYCAPYPm
+				5GQ+g4+Ojj4BhoaG
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -2645,17 +2645,19 @@ HTTP API}</string>
 						AHUAcgBpAGUAcgCEAWYJmwCbAZsA
 						mwCGhpcCAZKEmJkDkpmShJubAZyD
 						8fBwPYOtrCw+g93cXD4BhpKukq+S
-						nJKdhpcDDZKEmJkDkpmShJubAZyD
-						395ePwCD19bWPgGGkq6Sr5Kckp2G
-						lwIDlwEDlwIBlwMHlwITlwMPlwIJ
-						lwMMlwITlwQRkoSYmQOSmZKEm5sC
-						nIPQzk4/g9rYWD+D3NpaPwGGkpyS
-						nZKukq+GlwIJlwUBkoSYmQOSmZKE
-						m5sCnIOLigo/g8LAQD+D6uhoPgGG
-						kpySnZKukq+GlwIBlwQBlwIglwUB
-						lwIVlwYBkoSYmQOSmZKEm5sBnIPz
-						8vI+g7i3Nz+DtbQ0PgGGkq6Sr5Kc
-						kp2GlwIolwYBlwIZlwUBhg==
+						nJKEnp4AAISgmQySoZKjkqSSpZKm
+						kqeSqJKpkqqSq5Kskq2GAIaGlwMN
+						koSYmQOSmZKEm5sBnIPf3l4/AIPX
+						1tY+AYaSrpKvkpySs4aXAgOXAQOX
+						AgGXAweXAhOXAw+XAgmXAwyXAhOX
+						BBGShJiZA5KZkoSbmwKcg9DOTj+D
+						2thYP4Pc2lo/AYaSnJKdkq6Sr4aX
+						AgmXBQGShJiZA5KZkoSbmwKcg4uK
+						Cj+DwsBAP4Pq6Gg+AYaSnJKdkq6S
+						r4aXAgGXBAGXAiCXBQGXAhWXBgGS
+						hJiZA5KZkoSbmwGcg/Py8j6DuLc3
+						P4O1tDQ+AYaSrpKvkpySs4aXAiiX
+						BgGXAhmXBQGG
 						</data>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -2670,10 +2672,12 @@ echo $\cf4 MOTHER_CAT_NAME\cf3 \
 logger "\cf4 done killing\cf3 "\
 cat post.details \cf5 \
 \{\{ "id": "foo",\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 \cf3  "author"\cf6 :\cf3  \cf5 "\cf3 meow@catalonia.cat",\
  "redditID"\cf6 :\cf3  "catman",\
  "updated"\cf7 :\cf3  "2012-06-01T12:00:00Z",\
  "channel-post"\cf7 :\cf3  "2012-06-01T12:00:00Z",\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 \cf6 \}}</string>
 						<key>VerticalPad</key>
 						<integer>2</integer>
@@ -2831,7 +2835,7 @@ cat post.details \cf5 \
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{623, 277.51508}, {107.47156, 116.88074}}</string>
+			<string>{{623, 277.51508}, {163, 98.484924}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -2895,30 +2899,28 @@ cat post.details \cf5 \
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
-				bmcBlIQBK4GgAHsgCiAiaWQiOiAiZm9vIiwKICJhdXRo
-				b3IiOiAiYWxpY2VAZXhhbXBsZS5jb20iLAogImF1dGhv
-				ciI6ICJhbGljZUBleGFtcGxlLmNvbSIsCiAidXBkYXRl
-				ZCI6ICIyMDEyLTA2LTAxVDEyOjAwOjAwWiIsCiAiY29u
-				dGVudCI6ICJUaGlzIGlzIG15IG5ld2VzdCBwb3N0ISIs
-				Cn0sCgqGhAJpSQEBkoSEhAxOU0RpY3Rpb25hcnkAlIQB
-				aQSShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1Bh
-				cmFncmFwaFN0eWxlAJSEBENDQFMAAISEhAdOU0FycmF5
-				AJSZAIaBIAKEBFsyZl0OJIaShJaWEU5TQmFja2dyb3Vu
-				ZENvbG9yhpKEhIQHTlNDb2xvcgCUhAFjAYQEZmZmZoPs
-				62s/g+noaD+D2NdXPwGGkoSWlgZOU0ZvbnSGkoSEhAZO
-				U0ZvbnQelJkYhAVbMjRjXQYAAAAQAAAA//5DAG8AdQBy
-				AGkAZQByAIQBZgmfAJ8BnwCfAIaShJaWB05TQ29sb3KG
-				koSgnwKgAIOamRk/AAGGhpcCA5KEmJkDkpmSmpKekp+S
-				oZKihpcDBJKEmJkEkpmShJubAACcgSACnQ4khpKekoSg
-				nwGgg+zraz+D6ehoP4PY11c/AYaSoZKikqSShKCfAqCD
-				zcxMPoPNzMw+g83MTD8BhoaXBAGShJiZBJKZkqiSnpKp
-				kqGSopKkkoSgnwKgg83MTD6DmpkZP4PNzEw+AYaGlwIB
-				lwMFlwQBlwIClwMIlwQBlwIBlwMTlwQClwIBlwUIkoSY
-				mQSSmZKokp6SqZKhkqKSpJKEoJ8BoIOdnBw+g52cnD6D
-				wcBAPwGGhpcGAZKEmJkEkpmSqJKekqmSoZKikqSShKCf
-				AaCDrawsPoOMiws/g52cHD4BhoaXAgGXBROXBgGXAgKX
-				AwmXBAGXAgGXAxaXBAGXAgKXAwmXBAGXAgGXAxmXBAGX
-				AgGXAQGXBAKXAgGG
+				bmcBlIQBK4GAAHsgCiAiaWQiOiAiZm9vIiwKICJhdXRo
+				b3IiOiAiYWxpY2VAZXhhbXBsZS5jb20iLAogInVwZGF0
+				ZWQiOiAiMjAxMi0wNi0wMVQxMjowMDowMFoiLAogImNv
+				bnRlbnQiOiAiVGhpcyBpcyBteSBuZXdlc3QgcG9zdCEi
+				LAp9LAoKhoQCaUkBAZKEhIQMTlNEaWN0aW9uYXJ5AJSE
+				AWkEkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKEhIQQTlNQ
+				YXJhZ3JhcGhTdHlsZQCUhARDQ0BTAACEhIQHTlNBcnJh
+				eQCUmQCGgSAChARbMmZdDiSGkoSWlhFOU0JhY2tncm91
+				bmRDb2xvcoaShISEB05TQ29sb3IAlIQBYwGEBGZmZmaD
+				7OtrP4Pp6Gg/g9jXVz8BhpKElpYGTlNGb250hpKEhIQG
+				TlNGb250HpSZGIQFWzI0Y10GAAAAEAAAAP/+QwBvAHUA
+				cgBpAGUAcgCEAWYJnwCfAZ8AnwCGkoSWlgdOU0NvbG9y
+				hpKEoJ8CoACDmpkZPwABhoaXAgOShJiZA5KZkpqSnpKf
+				kqGSooaXAwSShJiZBJKZkoSbmwAAnIEgAp0OJIaSnpKE
+				oJ8BoIPs62s/g+noaD+D2NdXPwGGkqGSopKkkoSgnwKg
+				g83MTD6DzczMPoPNzEw/AYaGlwQBkoSYmQSSmZKokp6S
+				qZKhkqKSpJKEoJ8CoIPNzEw+g5qZGT+DzcxMPgGGhpcC
+				AZcDBZcEAZcCApcFCJKEmJkEkpmSqJKekqmSoZKikqSS
+				hKCfAaCDnZwcPoOdnJw+g8HAQD8BhoaXBgGShJiZBJKZ
+				kqiSnpKpkqGSopKkkoSgnwGgg62sLD6DjIsLP4OdnBw+
+				AYaGlwIBlwUTlwYBlwIClwMJlwQBlwIBlwMWlwQBlwIC
+				lwMJlwQBlwIBlwMZlwQBlwIBlwEBlwQClwIBhg==
 				</data>
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
@@ -2930,8 +2932,7 @@ cat post.details \cf5 \
 
 \f0\fs18 \cf2 \cb3 \{\cf0  \
  \cf4 \cb3 "id"\cf5 :\cf0 \cb3  \cf4 \cb3 "foo"\cf5 ,\cf0 \cb3 \
- \cf4 \cb3 "author"\cf5 :\cf0 \cb3  \cf4 \cb3 "alice@example.com"\cf5 ,\
-\cf0 \cb3  \cf6 \cb3 "author"\cf7 :\cf0 \cb3  \cf6 \cb3 "alice@example.com"\cf7 ,\cf0 \cb3 \
+ \cf6 \cb3 "author"\cf7 :\cf0 \cb3  \cf6 \cb3 "alice@example.com"\cf7 ,\cf0 \cb3 \
  \cf4 \cb3 "updated"\cf5 :\cf0 \cb3  \cf4 \cb3 "2012-06-01T12:00:00Z"\cf5 ,\cf0 \cb3 \
  \cf4 \cb3 "content"\cf5 :\cf0 \cb3  \cf4 \cb3 "This is my newest post!"\cf5 ,\cf0 \cb3 \
 \cf2 \}\cf5 \cb3 ,\
@@ -11628,7 +11629,7 @@ $./
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2012-10-22 17:39:48 +0000</string>
+	<string>2012-11-12 16:16:10 +0000</string>
 	<key>Modifier</key>
 	<string>Simon Tennant</string>
 	<key>NotesVisible</key>
@@ -11713,7 +11714,7 @@ $./
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{206, 37}, {1125, 1132}}</string>
+		<string>{{0, 37}, {1125, 741}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -11727,7 +11728,7 @@ $./
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-140, -117}, {976, 978}}</string>
+		<string>{{-140, 128}, {976, 587}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
